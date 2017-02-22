@@ -1,2 +1,2 @@
 # R_programs
-This is a folder containing statisical anayalses programmed in R
+This folder contains coursework, homework, and test submissions. Files include various statistical methods on one or two sample tests, statistical learning (supervised and unsupervised) and data mining.
